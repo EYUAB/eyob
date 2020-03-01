@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User_Management</string>
+    <string name="user_name">Eyob</string>
+    <string name="user_password">Eyob123</string>
+    <string name="login_preference">com.example.indivisualassignment_login_preference</string>
+    <string name="login_status_preference">com.example.indivisualassignment_login_status_preference_</string>
+</resources>
